@@ -17,4 +17,5 @@ How to save changes to github
 - stage the file by hitting the + button next to the readme file to the left
 - write a commit message then press the check mark to commit the file
 - Note: undo last commit by pressing ... then undo commit
-- Press ... then Push 
+- Press ... then Push
+- on Github my branch is saved with the changes. If I want to merge to the master branch I should create a pull request and merge the branch and master
